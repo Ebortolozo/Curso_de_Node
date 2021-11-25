@@ -1,0 +1,15 @@
+nav {
+    font-size: 5em;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+body {
+    text-align: center;
+}
+
+.Divs {
+    color: rgb(80, 80, 221);
+    display: flex;
+    justify-content: space-around;
+}
