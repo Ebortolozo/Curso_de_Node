@@ -7,6 +7,7 @@ const hbs = exphbs.create({
     partialsDir: ["views/partials"]
 })
 
+//Padrão
 app.engine("handlebars", hbs.engine)
 app.set("view engine", "handlebars")
 
